@@ -1,11 +1,11 @@
  Hi there! I'm Oguz.
 
-** I'm passionate about:**
+**I'm passionate about:**
 
 * Mobile Development
 * Embedded Systems Development
 
-** My current skillset:**
+**My current skillset:**
 
 * Flutter
 * Dart
@@ -13,15 +13,16 @@
 * ESP32
 * Arduino
 
-** I'm actively learning:**
+**I'm actively learning:**
 
 * Swift
 
-** Reach out:**
+**Reach out:**
 
 * Email: espekoguz@gmail.com
 * LinkedIn: http://www.linkedin.com/in/espek-oguz
 * My web site: https://espekoguz.wordpress.com
-** Pronouns:**
+  
+**Pronouns:**
 
 * He/Him (or Project Man, if you prefer!)
