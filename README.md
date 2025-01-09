@@ -12,6 +12,7 @@
 * STM32
 * ESP32
 * Arduino
+* Python 
 
 **I'm actively learning:**
 
