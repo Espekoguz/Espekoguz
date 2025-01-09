@@ -16,7 +16,9 @@
 **I'm actively learning:**
 
 * Swift
+* Kotlin
 
+  
 **Reach out:**
 
 * Email: espekoguz@gmail.com
