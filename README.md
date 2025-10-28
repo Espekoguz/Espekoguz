@@ -24,7 +24,8 @@
 
 * Email: espekoguz@gmail.com
 * LinkedIn: http://www.linkedin.com/in/espek-oguz
-* My web site: https://espekoguz.wordpress.com
+* My web site: https://www.oguzrobotics.com
+  
   
 **Pronouns:**
 
